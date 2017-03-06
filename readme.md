@@ -1,5 +1,5 @@
 ## Raspberry Pi Workshop - Scripts
-This (ongoing) collection of scripts have been created for showing different applications that utilize features of the Raspberry Pi platform.  Each scritp is used in our Introduction to Raspberry Pi workshops.  The workshops are designed to provide some insight and demonstration the Pi platform while answering the *what? why? and how?* questions that one might have when being exposed the board for the first time.
+This (ongoing) collection of scripts has been created for showing different applications that utilize features of the Raspberry Pi platform.  Each script is used in our *Introduction to Raspberry Pi* workshops.  The workshops are designed to provide some insight and demonstration the Pi platform while answering the *what? why? and how?* questions that one might have when being exposed to the board for the first time.
 
 
 ### switch.py
@@ -8,7 +8,7 @@ The switch.py script provides some demonstration of the ability to interact with
 The switch.py program gives a very basic demonstration of several wires and a dozen lines of instructions can get you started with the platform.
 
 **Requirements**
-A simple circuit wired as pictured:
+A simple circuit wired as follows:
 
 * GPIO 6 - wired to the switch
 * GPIO 7 - wired to the LED
